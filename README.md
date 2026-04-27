@@ -33,12 +33,6 @@ Book Reader Tracker helps users organize their reading journey by allowing them 
 ---
 ## 📸 Screenshots
 
-### 📚 Books Page
-![Books](books.jpeg)
-
-### ⚙️ Settings Page
-![Settings](settingss.jpeg)
-
 ### 🔐 Login Page
 ![Login](login.jpeg)
 
@@ -47,3 +41,9 @@ Book Reader Tracker helps users organize their reading journey by allowing them 
 
 ### 📊 Dashboard / Home
 ![Dashboard](da.jpeg)
+
+### 📚 Books Page
+![Books](books.jpeg)
+
+### ⚙️ Settings Page
+![Settings](settingss.jpeg)
